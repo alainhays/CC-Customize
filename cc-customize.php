@@ -1,5 +1,13 @@
 <?php defined( 'ABSPATH' ) or die( 'No script kiddies please!' );
-
+/**
+ * Name: CC-Customize
+ * GitHub URI: https://github.com/RapidDTC/Customization
+ * Description: Very fast engine for easy making customization in WordPress. Create personalization quickly and without worrying about code integrity!
+ * Version: 1.0.0
+ * Author: Leszek Pomianowski | RapidDev
+ * License: GPL-3.0+
+ * License URI: http://www.gnu.org/licenses/gpl-3.0.txt
+ */
 /* ====================================================================
  * Our customization (fully editable)
  * ==================================================================*/
