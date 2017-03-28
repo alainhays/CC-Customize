@@ -46,7 +46,6 @@ $cc = array(
   'no_index' => array( // no-index section
     'version' => array('3.1.4', '3'), // single option, not editable
     'load_defaults' => false,
-    'do_you_like_butter' => true
   ),
 
   'cc_main' => array( //section 
