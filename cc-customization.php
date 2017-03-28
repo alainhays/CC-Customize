@@ -20,7 +20,8 @@
 /* ====================================================================
  * Our customization (fully editable)
  * ==================================================================*/
-	$options = array(
+	if(!isset($cc)){
+	$cc = array(
 	'no_index' => array( // no-index section
 		'version' => array('3.1.4', '3'), // single option, not editable
 		),
@@ -37,6 +38,7 @@
 	'cc_colors_main' => array( //section 
 		'bg_color' => array('default' => '#fff', 'type' => 'color', 'title' => 'Background colors'), //single option
 		),
+	);global $cc;}
 
 /* ====================================================================
  * Customization
